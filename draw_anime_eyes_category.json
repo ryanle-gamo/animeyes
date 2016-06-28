@@ -1,0 +1,414 @@
+{
+	"categories":[
+                  {
+                    "category_id":"1",
+                    "category_name":"Anime Eyes",
+                    "category_thumbnail":"1.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
+                  "file_extension":"png",
+                    "is_video":"false",
+                    "animes":[
+                              {
+                                "anime_id":"1",
+                                "anime_name":"Abstract Eye",
+                                "anime_step":13
+                              },
+                              {
+                              "anime_id":"2",
+                              "anime_name":"Anime Men's Eye",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"3",
+                              "anime_name":"Moon Eye",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id":"4",
+                              "anime_name":"Anime Eye",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"5",
+                              "anime_name":"Fairy Eyes",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id":"6",
+                              "anime_name":"Cat's Eye",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"7",
+                              "anime_name":"Cosmic Eye",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"8",
+                              "anime_name":"Crying Eye",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"9",
+                              "anime_name":"Dark Eye",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"10",
+                              "anime_name":"Male Eye",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"11",
+                              "anime_name":"Old Realistic Eye",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id":"12",
+                              "anime_name":"Pink Eye",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"13",
+                              "anime_name":"Realistic Eye",
+                              "anime_step":20
+                              },
+                              {
+                              "anime_id":"14",
+                              "anime_name":"Star Eye",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id":"15",
+                              "anime_name":"Winking Eyes",
+                              "anime_step":8
+                              }
+                        ]
+                    },
+                  {
+                  "category_id":"2",
+                  "category_name":"Color Eyes",
+                  "category_thumbnail":"2.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
+                  "file_extension":"png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Catorce",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Cinco",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Cuatro",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Diecinueve",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Dieciocho",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Dieciseis",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Diecisiete",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Diez",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Doce",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Dos",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"11",
+                            "anime_name":"Nueve",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"12",
+                            "anime_name":"Ocho",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"13",
+                            "anime_name":"Once",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"14",
+                            "anime_name":"Quince",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"15",
+                            "anime_name":"Seis",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"16",
+                            "anime_name":"Siete",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"17",
+                            "anime_name":"Trece",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"18",
+                            "anime_name":"Tres",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"19",
+                            "anime_name":"Uno",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"20",
+                            "anime_name":"Veinte",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"21",
+                            "anime_name":"Veinticinco",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"22",
+                            "anime_name":"Veinticuatro",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"23",
+                            "anime_name":"Veintidos",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"24",
+                            "anime_name":"Veintiseis",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"25",
+                            "anime_name":"Veintisiete",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"26",
+                            "anime_name":"Veintitres",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"27",
+                            "anime_name":"Veintiuno",
+                            "anime_step":9
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"4",
+                  "category_name":"Female Eyes",
+                  "category_thumbnail":"4.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
+                  "file_extension":"png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Female #1",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Female #2",
+                            "anime_step":10
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Female #3",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Female #4",
+                            "anime_step":17
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Female #5",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Female #6",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Female #7",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Female #8",
+                            "anime_step":11
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Female #9",
+                            "anime_step":20
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Female #10",
+                            "anime_step":13
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"5",
+                  "category_name":"Male Eyes",
+                  "category_thumbnail":"5.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
+                  "file_extension":"png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Male #1",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Male #2",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Male #3",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Male #4",
+                            "anime_step":12
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Male #5",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Male #6",
+                            "anime_step":13
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Male #7",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Male #8",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Male #9",
+                            "anime_step":14
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Male #10",
+                            "anime_step":16
+                            }
+                            ]
+                  },
+                  {
+                  "category_id":"3",
+                  "category_name":"Classic Style",
+                  "category_thumbnail":"3.png",
+                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
+                  "file_extension":"png",
+                  "is_video":"false",
+                  "animes":[
+                            {
+                            "anime_id":"1",
+                            "anime_name":"Classic #1",
+                            "anime_step":8
+                            },
+                            {
+                            "anime_id":"2",
+                            "anime_name":"Classic #2",
+                            "anime_step":5
+                            },
+                            {
+                            "anime_id":"3",
+                            "anime_name":"Classic #3",
+                            "anime_step":5
+                            },
+                            {
+                            "anime_id":"4",
+                            "anime_name":"Classic #4",
+                            "anime_step":5
+                            },
+                            {
+                            "anime_id":"5",
+                            "anime_name":"Classic #5",
+                            "anime_step":5
+                            },
+                            {
+                            "anime_id":"6",
+                            "anime_name":"Classic #6",
+                            "anime_step":9
+                            },
+                            {
+                            "anime_id":"7",
+                            "anime_name":"Classic #7",
+                            "anime_step":6
+                            },
+                            {
+                            "anime_id":"8",
+                            "anime_name":"Classic #8",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"9",
+                            "anime_name":"Classic #9",
+                            "anime_step":7
+                            },
+                            {
+                            "anime_id":"10",
+                            "anime_name":"Classic #10",
+                            "anime_step":4
+                            }
+                            ]
+                  }
+                  ]
+}
