@@ -328,7 +328,6 @@
                               "anime_step": 4
                               }]
                    }, {
-                   "categories": [{
                                   "category_id": "1",
                                   "category_name": "Naruto",
                                   "category_thumbnail": "1.png",
@@ -1733,5 +1732,4 @@
                                              "anime_step": 13
                                              }]
                                   }]
-                   }]
 }
