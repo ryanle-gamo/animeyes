@@ -1,9 +1,9 @@
 {
 	"categories":[
                   {
-                    "category_id":"1",
+                    "category_id":"111111",
                     "category_name":"Anime Eyes",
-                    "category_thumbnail":"1.png",
+                    "category_thumbnail":"111111.png",
                   "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
                   "file_extension":"png",
                     "is_video":"false",
@@ -86,9 +86,9 @@
                         ]
                     },
                   {
-                  "category_id":"2",
+                  "category_id":"111112",
                   "category_name":"Color Eyes",
-                  "category_thumbnail":"2.png",
+                  "category_thumbnail":"111112.png",
                   "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
                   "file_extension":"png",
                   "is_video":"false",
@@ -231,9 +231,9 @@
                             ]
                   },
                   {
-                  "category_id":"4",
+                  "category_id":"111114",
                   "category_name":"Female Eyes",
-                  "category_thumbnail":"4.png",
+                  "category_thumbnail":"111114.png",
                   "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
                   "file_extension":"png",
                   "is_video":"false",
@@ -291,9 +291,9 @@
                             ]
                   },
                   {
-                  "category_id":"5",
+                  "category_id":"111115",
                   "category_name":"Male Eyes",
-                  "category_thumbnail":"5.png",
+                  "category_thumbnail":"111115.png",
                   "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
                   "file_extension":"png",
                   "is_video":"false",
@@ -351,9 +351,9 @@
                             ]
                   },
                   {
-                  "category_id":"3",
+                  "category_id":"111113",
                   "category_name":"Classic Style",
-                  "category_thumbnail":"3.png",
+                  "category_thumbnail":"111113.png",
                   "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
                   "file_extension":"png",
                   "is_video":"false",
