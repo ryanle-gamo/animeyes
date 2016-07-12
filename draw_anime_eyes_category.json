@@ -1,414 +1,1737 @@
 {
-	"categories":[
-                  {
-                    "category_id":"111111",
-                    "category_name":"Anime Eyes",
-                    "category_thumbnail":"111111.png",
-                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
-                  "file_extension":"png",
-                    "is_video":"false",
-                    "animes":[
-                              {
-                                "anime_id":"1",
-                                "anime_name":"Abstract Eye",
-                                "anime_step":13
-                              },
-                              {
-                              "anime_id":"2",
-                              "anime_name":"Anime Men's Eye",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"3",
-                              "anime_name":"Moon Eye",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id":"4",
-                              "anime_name":"Anime Eye",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id":"5",
-                              "anime_name":"Fairy Eyes",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id":"6",
-                              "anime_name":"Cat's Eye",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id":"7",
-                              "anime_name":"Cosmic Eye",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"8",
-                              "anime_name":"Crying Eye",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id":"9",
-                              "anime_name":"Dark Eye",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"10",
-                              "anime_name":"Male Eye",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id":"11",
-                              "anime_name":"Old Realistic Eye",
-                              "anime_step":15
-                              },
-                              {
-                              "anime_id":"12",
-                              "anime_name":"Pink Eye",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id":"13",
-                              "anime_name":"Realistic Eye",
-                              "anime_step":20
-                              },
-                              {
-                              "anime_id":"14",
-                              "anime_name":"Star Eye",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id":"15",
-                              "anime_name":"Winking Eyes",
-                              "anime_step":8
-                              }
-                        ]
-                    },
-                  {
-                  "category_id":"111112",
-                  "category_name":"Color Eyes",
-                  "category_thumbnail":"111112.png",
-                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
-                  "file_extension":"png",
-                  "is_video":"false",
-                  "animes":[
-                            {
-                            "anime_id":"1",
-                            "anime_name":"Catorce",
-                            "anime_step":11
-                            },
-                            {
-                            "anime_id":"2",
-                            "anime_name":"Cinco",
-                            "anime_step":11
-                            },
-                            {
-                            "anime_id":"3",
-                            "anime_name":"Cuatro",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"4",
-                            "anime_name":"Diecinueve",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"5",
-                            "anime_name":"Dieciocho",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"6",
-                            "anime_name":"Dieciseis",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"7",
-                            "anime_name":"Diecisiete",
-                            "anime_step":13
-                            },
-                            {
-                            "anime_id":"8",
-                            "anime_name":"Diez",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"9",
-                            "anime_name":"Doce",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"10",
-                            "anime_name":"Dos",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"11",
-                            "anime_name":"Nueve",
-                            "anime_step":10
-                            },
-                            {
-                            "anime_id":"12",
-                            "anime_name":"Ocho",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"13",
-                            "anime_name":"Once",
-                            "anime_step":11
-                            },
-                            {
-                            "anime_id":"14",
-                            "anime_name":"Quince",
-                            "anime_step":10
-                            },
-                            {
-                            "anime_id":"15",
-                            "anime_name":"Seis",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"16",
-                            "anime_name":"Siete",
-                            "anime_step":11
-                            },
-                            {
-                            "anime_id":"17",
-                            "anime_name":"Trece",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"18",
-                            "anime_name":"Tres",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"19",
-                            "anime_name":"Uno",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"20",
-                            "anime_name":"Veinte",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"21",
-                            "anime_name":"Veinticinco",
-                            "anime_step":13
-                            },
-                            {
-                            "anime_id":"22",
-                            "anime_name":"Veinticuatro",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"23",
-                            "anime_name":"Veintidos",
-                            "anime_step":10
-                            },
-                            {
-                            "anime_id":"24",
-                            "anime_name":"Veintiseis",
-                            "anime_step":10
-                            },
-                            {
-                            "anime_id":"25",
-                            "anime_name":"Veintisiete",
-                            "anime_step":10
-                            },
-                            {
-                            "anime_id":"26",
-                            "anime_name":"Veintitres",
-                            "anime_step":11
-                            },
-                            {
-                            "anime_id":"27",
-                            "anime_name":"Veintiuno",
-                            "anime_step":9
-                            }
-                            ]
-                  },
-                  {
-                  "category_id":"111114",
-                  "category_name":"Female Eyes",
-                  "category_thumbnail":"111114.png",
-                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
-                  "file_extension":"png",
-                  "is_video":"false",
-                  "animes":[
-                            {
-                            "anime_id":"1",
-                            "anime_name":"Female #1",
-                            "anime_step":13
-                            },
-                            {
-                            "anime_id":"2",
-                            "anime_name":"Female #2",
-                            "anime_step":10
-                            },
-                            {
-                            "anime_id":"3",
-                            "anime_name":"Female #3",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"4",
-                            "anime_name":"Female #4",
-                            "anime_step":17
-                            },
-                            {
-                            "anime_id":"5",
-                            "anime_name":"Female #5",
-                            "anime_step":11
-                            },
-                            {
-                            "anime_id":"6",
-                            "anime_name":"Female #6",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"7",
-                            "anime_name":"Female #7",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"8",
-                            "anime_name":"Female #8",
-                            "anime_step":11
-                            },
-                            {
-                            "anime_id":"9",
-                            "anime_name":"Female #9",
-                            "anime_step":20
-                            },
-                            {
-                            "anime_id":"10",
-                            "anime_name":"Female #10",
-                            "anime_step":13
-                            }
-                            ]
-                  },
-                  {
-                  "category_id":"111115",
-                  "category_name":"Male Eyes",
-                  "category_thumbnail":"111115.png",
-                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
-                  "file_extension":"png",
-                  "is_video":"false",
-                  "animes":[
-                            {
-                            "anime_id":"1",
-                            "anime_name":"Male #1",
-                            "anime_step":13
-                            },
-                            {
-                            "anime_id":"2",
-                            "anime_name":"Male #2",
-                            "anime_step":12
-                            },
-                            {
-                            "anime_id":"3",
-                            "anime_name":"Male #3",
-                            "anime_step":12
-                            },
-                            {
-                            "anime_id":"4",
-                            "anime_name":"Male #4",
-                            "anime_step":12
-                            },
-                            {
-                            "anime_id":"5",
-                            "anime_name":"Male #5",
-                            "anime_step":13
-                            },
-                            {
-                            "anime_id":"6",
-                            "anime_name":"Male #6",
-                            "anime_step":13
-                            },
-                            {
-                            "anime_id":"7",
-                            "anime_name":"Male #7",
-                            "anime_step":14
-                            },
-                            {
-                            "anime_id":"8",
-                            "anime_name":"Male #8",
-                            "anime_step":14
-                            },
-                            {
-                            "anime_id":"9",
-                            "anime_name":"Male #9",
-                            "anime_step":14
-                            },
-                            {
-                            "anime_id":"10",
-                            "anime_name":"Male #10",
-                            "anime_step":16
-                            }
-                            ]
-                  },
-                  {
-                  "category_id":"111113",
-                  "category_name":"Classic Style",
-                  "category_thumbnail":"111113.png",
-                  "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
-                  "file_extension":"png",
-                  "is_video":"false",
-                  "animes":[
-                            {
-                            "anime_id":"1",
-                            "anime_name":"Classic #1",
-                            "anime_step":8
-                            },
-                            {
-                            "anime_id":"2",
-                            "anime_name":"Classic #2",
-                            "anime_step":5
-                            },
-                            {
-                            "anime_id":"3",
-                            "anime_name":"Classic #3",
-                            "anime_step":5
-                            },
-                            {
-                            "anime_id":"4",
-                            "anime_name":"Classic #4",
-                            "anime_step":5
-                            },
-                            {
-                            "anime_id":"5",
-                            "anime_name":"Classic #5",
-                            "anime_step":5
-                            },
-                            {
-                            "anime_id":"6",
-                            "anime_name":"Classic #6",
-                            "anime_step":9
-                            },
-                            {
-                            "anime_id":"7",
-                            "anime_name":"Classic #7",
-                            "anime_step":6
-                            },
-                            {
-                            "anime_id":"8",
-                            "anime_name":"Classic #8",
-                            "anime_step":7
-                            },
-                            {
-                            "anime_id":"9",
-                            "anime_name":"Classic #9",
-                            "anime_step":7
-                            },
-                            {
-                            "anime_id":"10",
-                            "anime_name":"Classic #10",
-                            "anime_step":4
-                            }
-                            ]
-                  }
-                  ]
+    "categories": [{
+                   "category_id": "111111",
+                   "category_name": "Anime Eyes",
+                   "category_thumbnail": "111111.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
+                   "file_extension": "png",
+                   "is_video": "false",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Abstract Eye",
+                              "anime_step": 13
+                              }, {
+                              "anime_id": "2",
+                              "anime_name": "Anime Men's Eye",
+                              "anime_step": 8
+                              }, {
+                              "anime_id": "3",
+                              "anime_name": "Moon Eye",
+                              "anime_step": 11
+                              }, {
+                              "anime_id": "4",
+                              "anime_name": "Anime Eye",
+                              "anime_step": 10
+                              }, {
+                              "anime_id": "5",
+                              "anime_name": "Fairy Eyes",
+                              "anime_step": 12
+                              }, {
+                              "anime_id": "6",
+                              "anime_name": "Cat's Eye",
+                              "anime_step": 10
+                              }, {
+                              "anime_id": "7",
+                              "anime_name": "Cosmic Eye",
+                              "anime_step": 9
+                              }, {
+                              "anime_id": "8",
+                              "anime_name": "Crying Eye",
+                              "anime_step": 8
+                              }, {
+                              "anime_id": "9",
+                              "anime_name": "Dark Eye",
+                              "anime_step": 9
+                              }, {
+                              "anime_id": "10",
+                              "anime_name": "Male Eye",
+                              "anime_step": 9
+                              }, {
+                              "anime_id": "11",
+                              "anime_name": "Old Realistic Eye",
+                              "anime_step": 15
+                              }, {
+                              "anime_id": "12",
+                              "anime_name": "Pink Eye",
+                              "anime_step": 10
+                              }, {
+                              "anime_id": "13",
+                              "anime_name": "Realistic Eye",
+                              "anime_step": 20
+                              }, {
+                              "anime_id": "14",
+                              "anime_name": "Star Eye",
+                              "anime_step": 11
+                              }, {
+                              "anime_id": "15",
+                              "anime_name": "Winking Eyes",
+                              "anime_step": 8
+                              }]
+                   }, {
+                   "category_id": "111112",
+                   "category_name": "Color Eyes",
+                   "category_thumbnail": "111112.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
+                   "file_extension": "png",
+                   "is_video": "false",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Catorce",
+                              "anime_step": 11
+                              }, {
+                              "anime_id": "2",
+                              "anime_name": "Cinco",
+                              "anime_step": 11
+                              }, {
+                              "anime_id": "3",
+                              "anime_name": "Cuatro",
+                              "anime_step": 9
+                              }, {
+                              "anime_id": "4",
+                              "anime_name": "Diecinueve",
+                              "anime_step": 8
+                              }, {
+                              "anime_id": "5",
+                              "anime_name": "Dieciocho",
+                              "anime_step": 8
+                              }, {
+                              "anime_id": "6",
+                              "anime_name": "Dieciseis",
+                              "anime_step": 9
+                              }, {
+                              "anime_id": "7",
+                              "anime_name": "Diecisiete",
+                              "anime_step": 13
+                              }, {
+                              "anime_id": "8",
+                              "anime_name": "Diez",
+                              "anime_step": 9
+                              }, {
+                              "anime_id": "9",
+                              "anime_name": "Doce",
+                              "anime_step": 9
+                              }, {
+                              "anime_id": "10",
+                              "anime_name": "Dos",
+                              "anime_step": 8
+                              }, {
+                              "anime_id": "11",
+                              "anime_name": "Nueve",
+                              "anime_step": 10
+                              }, {
+                              "anime_id": "12",
+                              "anime_name": "Ocho",
+                              "anime_step": 9
+                              }, {
+                              "anime_id": "13",
+                              "anime_name": "Once",
+                              "anime_step": 11
+                              }, {
+                              "anime_id": "14",
+                              "anime_name": "Quince",
+                              "anime_step": 10
+                              }, {
+                              "anime_id": "15",
+                              "anime_name": "Seis",
+                              "anime_step": 8
+                              }, {
+                              "anime_id": "16",
+                              "anime_name": "Siete",
+                              "anime_step": 11
+                              }, {
+                              "anime_id": "17",
+                              "anime_name": "Trece",
+                              "anime_step": 8
+                              }, {
+                              "anime_id": "18",
+                              "anime_name": "Tres",
+                              "anime_step": 8
+                              }, {
+                              "anime_id": "19",
+                              "anime_name": "Uno",
+                              "anime_step": 9
+                              }, {
+                              "anime_id": "20",
+                              "anime_name": "Veinte",
+                              "anime_step": 9
+                              }, {
+                              "anime_id": "21",
+                              "anime_name": "Veinticinco",
+                              "anime_step": 13
+                              }, {
+                              "anime_id": "22",
+                              "anime_name": "Veinticuatro",
+                              "anime_step": 9
+                              }, {
+                              "anime_id": "23",
+                              "anime_name": "Veintidos",
+                              "anime_step": 10
+                              }, {
+                              "anime_id": "24",
+                              "anime_name": "Veintiseis",
+                              "anime_step": 10
+                              }, {
+                              "anime_id": "25",
+                              "anime_name": "Veintisiete",
+                              "anime_step": 10
+                              }, {
+                              "anime_id": "26",
+                              "anime_name": "Veintitres",
+                              "anime_step": 11
+                              }, {
+                              "anime_id": "27",
+                              "anime_name": "Veintiuno",
+                              "anime_step": 9
+                              }]
+                   }, {
+                   "category_id": "111114",
+                   "category_name": "Female Eyes",
+                   "category_thumbnail": "111114.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
+                   "file_extension": "png",
+                   "is_video": "false",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Female #1",
+                              "anime_step": 13
+                              }, {
+                              "anime_id": "2",
+                              "anime_name": "Female #2",
+                              "anime_step": 10
+                              }, {
+                              "anime_id": "3",
+                              "anime_name": "Female #3",
+                              "anime_step": 8
+                              }, {
+                              "anime_id": "4",
+                              "anime_name": "Female #4",
+                              "anime_step": 17
+                              }, {
+                              "anime_id": "5",
+                              "anime_name": "Female #5",
+                              "anime_step": 11
+                              }, {
+                              "anime_id": "6",
+                              "anime_name": "Female #6",
+                              "anime_step": 8
+                              }, {
+                              "anime_id": "7",
+                              "anime_name": "Female #7",
+                              "anime_step": 9
+                              }, {
+                              "anime_id": "8",
+                              "anime_name": "Female #8",
+                              "anime_step": 11
+                              }, {
+                              "anime_id": "9",
+                              "anime_name": "Female #9",
+                              "anime_step": 20
+                              }, {
+                              "anime_id": "10",
+                              "anime_name": "Female #10",
+                              "anime_step": 13
+                              }]
+                   }, {
+                   "category_id": "111115",
+                   "category_name": "Male Eyes",
+                   "category_thumbnail": "111115.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
+                   "file_extension": "png",
+                   "is_video": "false",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Male #1",
+                              "anime_step": 13
+                              }, {
+                              "anime_id": "2",
+                              "anime_name": "Male #2",
+                              "anime_step": 12
+                              }, {
+                              "anime_id": "3",
+                              "anime_name": "Male #3",
+                              "anime_step": 12
+                              }, {
+                              "anime_id": "4",
+                              "anime_name": "Male #4",
+                              "anime_step": 12
+                              }, {
+                              "anime_id": "5",
+                              "anime_name": "Male #5",
+                              "anime_step": 13
+                              }, {
+                              "anime_id": "6",
+                              "anime_name": "Male #6",
+                              "anime_step": 13
+                              }, {
+                              "anime_id": "7",
+                              "anime_name": "Male #7",
+                              "anime_step": 14
+                              }, {
+                              "anime_id": "8",
+                              "anime_name": "Male #8",
+                              "anime_step": 14
+                              }, {
+                              "anime_id": "9",
+                              "anime_name": "Male #9",
+                              "anime_step": 14
+                              }, {
+                              "anime_id": "10",
+                              "anime_name": "Male #10",
+                              "anime_step": 16
+                              }]
+                   }, {
+                   "category_id": "111113",
+                   "category_name": "Classic Style",
+                   "category_thumbnail": "111113.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
+                   "file_extension": "png",
+                   "is_video": "false",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Classic #1",
+                              "anime_step": 8
+                              }, {
+                              "anime_id": "2",
+                              "anime_name": "Classic #2",
+                              "anime_step": 5
+                              }, {
+                              "anime_id": "3",
+                              "anime_name": "Classic #3",
+                              "anime_step": 5
+                              }, {
+                              "anime_id": "4",
+                              "anime_name": "Classic #4",
+                              "anime_step": 5
+                              }, {
+                              "anime_id": "5",
+                              "anime_name": "Classic #5",
+                              "anime_step": 5
+                              }, {
+                              "anime_id": "6",
+                              "anime_name": "Classic #6",
+                              "anime_step": 9
+                              }, {
+                              "anime_id": "7",
+                              "anime_name": "Classic #7",
+                              "anime_step": 6
+                              }, {
+                              "anime_id": "8",
+                              "anime_name": "Classic #8",
+                              "anime_step": 7
+                              }, {
+                              "anime_id": "9",
+                              "anime_name": "Classic #9",
+                              "anime_step": 7
+                              }, {
+                              "anime_id": "10",
+                              "anime_name": "Classic #10",
+                              "anime_step": 4
+                              }]
+                   }, {
+                   "categories": [{
+                                  "category_id": "1",
+                                  "category_name": "Naruto",
+                                  "category_thumbnail": "1.png",
+                                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                                  "file_extension": "png",
+                                  "is_video": "false",
+                                  "animes": [{
+                                             "anime_id": "1",
+                                             "anime_name": "Kakashi Hatake",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "2",
+                                             "anime_name": "Kakashi Hatake Face",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "3",
+                                             "anime_name": "Naruto Uzumaki",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "4",
+                                             "anime_name": "Naruto Uzumaki Face",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "5",
+                                             "anime_name": "Sasuke Uchiha",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "6",
+                                             "anime_name": "Sasuke Uchiha Face",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "7",
+                                             "anime_name": "Iruka Umino",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "8",
+                                             "anime_name": "Sakura Haruno",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "9",
+                                             "anime_name": "Rock Lee",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "10",
+                                             "anime_name": "Gaara",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "11",
+                                             "anime_name": "Haku",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "12",
+                                             "anime_name": "Zabuza Momochi",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "13",
+                                             "anime_name": "Hinata Hyuga",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "14",
+                                             "anime_name": "Anko Mitarashi",
+                                             "anime_step": 14
+                                             }, {
+                                             "anime_id": "15",
+                                             "anime_name": "Neji Hyuga",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "16",
+                                             "anime_name": "Kurenai Yuhi",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "17",
+                                             "anime_name": "Orochimaru",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "18",
+                                             "anime_name": "Ibiki Morino",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "19",
+                                             "anime_name": "Asuma Sarutobi",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "20",
+                                             "anime_name": "Shizune",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "21",
+                                             "anime_name": "Konohamaru Sarutobi",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "22",
+                                             "anime_name": "Jiraiya",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "23",
+                                             "anime_name": "Itachi",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "24",
+                                             "anime_name": "Hinata Hyuga 2",
+                                             "anime_step": 10
+                                             }]
+                                  }, {
+                                  "category_id": "2",
+                                  "category_name": "Bleach",
+                                  "category_thumbnail": "2.png",
+                                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                                  "file_extension": "png",
+                                  "is_video": "false",
+                                  "animes": [{
+                                             "anime_id": "1",
+                                             "anime_name": "Bleach logo",
+                                             "anime_step": 6
+                                             }, {
+                                             "anime_id": "2",
+                                             "anime_name": "Ichigo Kurosaki",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "3",
+                                             "anime_name": "Ichigo Kurosaki Chibi",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "4",
+                                             "anime_name": "Ichigo Kurosaki Mask",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "5",
+                                             "anime_name": "Ichigo Kurosaki Face",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "6",
+                                             "anime_name": "Rukia Kuchiki",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "7",
+                                             "anime_name": "Rukia Kuchiki Face",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "8",
+                                             "anime_name": "Uryu Ishida",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "9",
+                                             "anime_name": "Uryu Ishida Chibi",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "10",
+                                             "anime_name": "Kon",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "11",
+                                             "anime_name": "Orihime Inoue",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "12",
+                                             "anime_name": "Yasutora Sado",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "13",
+                                             "anime_name": "Kisuke Urahara",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "14",
+                                             "anime_name": "Tatsuki Arisawa",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "15",
+                                             "anime_name": "Toshiro Hitsugaya",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "16",
+                                             "anime_name": "Ururu Tsumugiya",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "17",
+                                             "anime_name": "Renji Abarai",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "18",
+                                             "anime_name": "Isshin Kurosaki",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "19",
+                                             "anime_name": "Zaraki Kenpachi",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "20",
+                                             "anime_name": "Byakuya Kuchiki",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "21",
+                                             "anime_name": "Ulquiorra Schiffer",
+                                             "anime_step": 10
+                                             }]
+                                  }, {
+                                  "category_id": "3",
+                                  "category_name": "Death Note",
+                                  "category_thumbnail": "3.png",
+                                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                                  "file_extension": "png",
+                                  "is_video": "false",
+                                  "animes": [{
+                                             "anime_id": "13",
+                                             "anime_name": "L Ident",
+                                             "anime_step": 6
+                                             }, {
+                                             "anime_id": "6",
+                                             "anime_name": "L Lawliet",
+                                             "anime_step": 16
+                                             }, {
+                                             "anime_id": "7",
+                                             "anime_name": "L Lawliet chibi",
+                                             "anime_step": 14
+                                             }, {
+                                             "anime_id": "5",
+                                             "anime_name": "L Lawliet easy",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "14",
+                                             "anime_name": "Linda",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "15",
+                                             "anime_name": "Matt",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "16",
+                                             "anime_name": "Mello",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "11",
+                                             "anime_name": "Mello Mihael Keeh",
+                                             "anime_step": 14
+                                             }, {
+                                             "anime_id": "17",
+                                             "anime_name": "Mikami Teru",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "9",
+                                             "anime_name": "Misa Amane",
+                                             "anime_step": 29
+                                             }, {
+                                             "anime_id": "8",
+                                             "anime_name": "Misa Amane easy",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "18",
+                                             "anime_name": "Naomi Misora",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "19",
+                                             "anime_name": "Near Nate River easy",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "10",
+                                             "anime_name": "Near Nate River",
+                                             "anime_step": 17
+                                             }, {
+                                             "anime_id": "20",
+                                             "anime_name": "Rem",
+                                             "anime_step": 15
+                                             }, {
+                                             "anime_id": "12",
+                                             "anime_name": "Ryuk",
+                                             "anime_step": 23
+                                             }, {
+                                             "anime_id": "21",
+                                             "anime_name": "Sidoh",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "22",
+                                             "anime_name": "Soichiro Yagami",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "2",
+                                             "anime_name": "Yagami Kira",
+                                             "anime_step": 17
+                                             }, {
+                                             "anime_id": "4",
+                                             "anime_name": "Yagami Kira chibi",
+                                             "anime_step": 14
+                                             }, {
+                                             "anime_id": "1",
+                                             "anime_name": "Yagami Kira easy",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "3",
+                                             "anime_name": "Yagami Kira with scythe",
+                                             "anime_step": 24
+                                             }]
+                                  }, {
+                                  "category_id": "4",
+                                  "category_name": "One Piece",
+                                  "category_thumbnail": "4.png",
+                                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                                  "file_extension": "png",
+                                  "is_video": "false",
+                                  "animes": [{
+                                             "anime_id": "1",
+                                             "anime_name": "Roronoa Zoro Face",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "2",
+                                             "anime_name": "Roronoa Zoro",
+                                             "anime_step": 16
+                                             }, {
+                                             "anime_id": "3",
+                                             "anime_name": "Portgas D. Ace",
+                                             "anime_step": 15
+                                             }, {
+                                             "anime_id": "4",
+                                             "anime_name": "Portgas D. Ace Face",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "5",
+                                             "anime_name": "Dracule Mihawk",
+                                             "anime_step": 15
+                                             }, {
+                                             "anime_id": "6",
+                                             "anime_name": "Dracule Mihawk Face",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "7",
+                                             "anime_name": "Shanks",
+                                             "anime_step": 17
+                                             }, {
+                                             "anime_id": "8",
+                                             "anime_name": "Shanks Face",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "9",
+                                             "anime_name": "Monkey D. Luffy",
+                                             "anime_step": 16
+                                             }, {
+                                             "anime_id": "10",
+                                             "anime_name": "Doflamingo",
+                                             "anime_step": 14
+                                             }, {
+                                             "anime_id": "11",
+                                             "anime_name": "Marco",
+                                             "anime_step": 14
+                                             }, {
+                                             "anime_id": "12",
+                                             "anime_name": "Kizaru",
+                                             "anime_step": 17
+                                             }, {
+                                             "anime_id": "13",
+                                             "anime_name": "Crocodile",
+                                             "anime_step": 16
+                                             }, {
+                                             "anime_id": "14",
+                                             "anime_name": "Zanji",
+                                             "anime_step": 14
+                                             }, {
+                                             "anime_id": "15",
+                                             "anime_name": "Rob Lucci",
+                                             "anime_step": 15
+                                             }, {
+                                             "anime_id": "16",
+                                             "anime_name": "Enel",
+                                             "anime_step": 17
+                                             }, {
+                                             "anime_id": "17",
+                                             "anime_name": "Magellan",
+                                             "anime_step": 16
+                                             }, {
+                                             "anime_id": "18",
+                                             "anime_name": "Benn Beckman",
+                                             "anime_step": 16
+                                             }, {
+                                             "anime_id": "19",
+                                             "anime_name": "Trafalgan Law",
+                                             "anime_step": 17
+                                             }, {
+                                             "anime_id": "20",
+                                             "anime_name": "Monkey D. Dragon",
+                                             "anime_step": 14
+                                             }]
+                                  }, {
+                                  "category_id": "13",
+                                  "category_name": "Code Geass Anime",
+                                  "category_thumbnail": "13.png",
+                                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                                  "file_extension": "png",
+                                  "is_video": "false",
+                                  "animes": [{
+                                             "anime_id": "1",
+                                             "anime_name": "Anya Alstrein",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "2",
+                                             "anime_name": "C.C",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "3",
+                                             "anime_name": "Code Geass Symbol",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "4",
+                                             "anime_name": "Empress Tianzi",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "5",
+                                             "anime_name": "Gao Hai",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "6",
+                                             "anime_name": "Jeremiah Gottwald",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "7",
+                                             "anime_name": "Kallen Kozuki",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "8",
+                                             "anime_name": "Lelouch",
+                                             "anime_step": 15
+                                             }, {
+                                             "anime_id": "9",
+                                             "anime_name": "Mecha",
+                                             "anime_step": 17
+                                             }, {
+                                             "anime_id": "10",
+                                             "anime_name": "Milly Ashford",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "11",
+                                             "anime_name": "Nunnally vi Britania",
+                                             "anime_step": 14
+                                             }, {
+                                             "anime_id": "12",
+                                             "anime_name": "Rachshta Chawla",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "13",
+                                             "anime_name": "Rolo Lamperouge",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "14",
+                                             "anime_name": "Schneizel el Britania",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "15",
+                                             "anime_name": "Shirley Fenette",
+                                             "anime_step": 15
+                                             }, {
+                                             "anime_id": "16",
+                                             "anime_name": "Suzaku Kururugi",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "17",
+                                             "anime_name": "V.V",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "18",
+                                             "anime_name": "Viletta Nu",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "19",
+                                             "anime_name": "Xingke Li",
+                                             "anime_step": 15
+                                             }, {
+                                             "anime_id": "20",
+                                             "anime_name": "Zero Helmet",
+                                             "anime_step": 7
+                                             }]
+                                  }, {
+                                  "category_id": "14",
+                                  "category_name": "RWBY Anime",
+                                  "category_thumbnail": "14.png",
+                                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                                  "file_extension": "png",
+                                  "is_video": "false",
+                                  "animes": [{
+                                             "anime_id": "1",
+                                             "anime_name": "Adam Taurus",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "2",
+                                             "anime_name": "Blake Belladonna",
+                                             "anime_step": 14
+                                             }, {
+                                             "anime_id": "3",
+                                             "anime_name": "Chibi Blake",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "4",
+                                             "anime_name": "Chibi Ruby",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "5",
+                                             "anime_name": "Chibi Wiess",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "6",
+                                             "anime_name": "Chibi Yang",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "7",
+                                             "anime_name": "Cinder Fall",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "8",
+                                             "anime_name": "Glynda Goodwitch",
+                                             "anime_step": 14
+                                             }, {
+                                             "anime_id": "9",
+                                             "anime_name": "Jaune Arc",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "10",
+                                             "anime_name": "Lie Ren",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "11",
+                                             "anime_name": "Neopolitan",
+                                             "anime_step": 15
+                                             }, {
+                                             "anime_id": "12",
+                                             "anime_name": "Nora Valkyrie",
+                                             "anime_step": 16
+                                             }, {
+                                             "anime_id": "13",
+                                             "anime_name": "Penny",
+                                             "anime_step": 15
+                                             }, {
+                                             "anime_id": "14",
+                                             "anime_name": "Pyrrha Nikos",
+                                             "anime_step": 14
+                                             }, {
+                                             "anime_id": "15",
+                                             "anime_name": "Roman Torchwich",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "16",
+                                             "anime_name": "Ruby Rose",
+                                             "anime_step": 14
+                                             }, {
+                                             "anime_id": "17",
+                                             "anime_name": "Sun Wukong",
+                                             "anime_step": 16
+                                             }, {
+                                             "anime_id": "18",
+                                             "anime_name": "Velvet Scarlatina",
+                                             "anime_step": 16
+                                             }, {
+                                             "anime_id": "19",
+                                             "anime_name": "Wiess Schnee",
+                                             "anime_step": 15
+                                             }, {
+                                             "anime_id": "20",
+                                             "anime_name": "Yang Xiao Long",
+                                             "anime_step": 18
+                                             }]
+                                  }, {
+                                  "category_id": "15",
+                                  "category_name": "Fullmetal Alchemist",
+                                  "category_thumbnail": "15.png",
+                                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                                  "file_extension": "png",
+                                  "is_video": "false",
+                                  "animes": [{
+                                             "anime_id": "1",
+                                             "anime_name": "Alphonse",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "2",
+                                             "anime_name": "Edward",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "3",
+                                             "anime_name": "Envy",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "4",
+                                             "anime_name": "Fullmetal Symbol",
+                                             "anime_step": 6
+                                             }, {
+                                             "anime_id": "5",
+                                             "anime_name": "Gluttony",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "6",
+                                             "anime_name": "Greed",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "7",
+                                             "anime_name": "Izumi Curtis",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "8",
+                                             "anime_name": "Lust",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "9",
+                                             "anime_name": "Louis Armstrong",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "10",
+                                             "anime_name": "Maes Hughes",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "11",
+                                             "anime_name": "May",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "12",
+                                             "anime_name": "Riza",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "13",
+                                             "anime_name": "Roy Mustang",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "14",
+                                             "anime_name": "Scar",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "15",
+                                             "anime_name": "Winry",
+                                             "anime_step": 11
+                                             }]
+                                  }, {
+                                  "category_id": "5",
+                                  "category_name": "Dragon Ball Z",
+                                  "category_thumbnail": "5.png",
+                                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                                  "file_extension": "png",
+                                  "is_video": "false",
+                                  "animes": [{
+                                             "anime_id": "1",
+                                             "anime_name": "Babidi",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "2",
+                                             "anime_name": "Beerus",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "3",
+                                             "anime_name": "Bulma",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "4",
+                                             "anime_name": "Buu",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "5",
+                                             "anime_name": "Cell",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "6",
+                                             "anime_name": "Chi-Chi",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "7",
+                                             "anime_name": "Chiaotzu",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "8",
+                                             "anime_name": "Frieza",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "9",
+                                             "anime_name": "Gohan",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "10",
+                                             "anime_name": "Goku",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "11",
+                                             "anime_name": "King Kai",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "12",
+                                             "anime_name": "Krillin",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "13",
+                                             "anime_name": "Master Roshi",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "14",
+                                             "anime_name": "Nappa",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "15",
+                                             "anime_name": "Piccolo",
+                                             "anime_step": 14
+                                             }, {
+                                             "anime_id": "16",
+                                             "anime_name": "Raditz",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "17",
+                                             "anime_name": "Tien",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "18",
+                                             "anime_name": "Trunks",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "19",
+                                             "anime_name": "Vegeta",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "20",
+                                             "anime_name": "Yamcha",
+                                             "anime_step": 13
+                                             }]
+                                  }, {
+                                  "category_id": "6",
+                                  "category_name": "Fairy Tail",
+                                  "category_thumbnail": "6.png",
+                                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                                  "file_extension": "png",
+                                  "is_video": "false",
+                                  "animes": [{
+                                             "anime_id": "1",
+                                             "anime_name": "Cana Alberona",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "2",
+                                             "anime_name": "Aquarius",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "3",
+                                             "anime_name": "Cobra",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "4",
+                                             "anime_name": "Erza",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "5",
+                                             "anime_name": "Gray",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "6",
+                                             "anime_name": "Gajeel Redfox",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "7",
+                                             "anime_name": "Happy",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "8",
+                                             "anime_name": "Jellal Fernandes",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "9",
+                                             "anime_name": "Juvia",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "10",
+                                             "anime_name": "Laxus",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "11",
+                                             "anime_name": "Levy McGarden",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "12",
+                                             "anime_name": "Lucy",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "13",
+                                             "anime_name": "Mavis",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "14",
+                                             "anime_name": "Minevra Orlando",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "15",
+                                             "anime_name": "Mirajane",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "16",
+                                             "anime_name": "Ultear",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "17",
+                                             "anime_name": "Wendy",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "18",
+                                             "anime_name": "Zeref",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "19",
+                                             "anime_name": "Egneel",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "20",
+                                             "anime_name": "Natsu Dragneel",
+                                             "anime_step": 9
+                                             }]
+                                  }, {
+                                  "category_id": "7",
+                                  "category_name": "Sailor Moon",
+                                  "category_thumbnail": "7.png",
+                                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                                  "file_extension": "png",
+                                  "is_video": "false",
+                                  "animes": [{
+                                             "anime_id": "1",
+                                             "anime_name": "Artemis",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "2",
+                                             "anime_name": "Luna",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "3",
+                                             "anime_name": "Kou Seiya",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "4",
+                                             "anime_name": "Kou Yaten",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "5",
+                                             "anime_name": "Kou Taiki",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "6",
+                                             "anime_name": "Princesse Serenity",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "7",
+                                             "anime_name": "Queen Nehelenia",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "8",
+                                             "anime_name": "Queen Beryl",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "9",
+                                             "anime_name": "Sailor Jupiter",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "10",
+                                             "anime_name": "Sailor Mars",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "11",
+                                             "anime_name": "Sailor Mercury",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "12",
+                                             "anime_name": "Sailor Moon",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "13",
+                                             "anime_name": "Sailor Venus",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "14",
+                                             "anime_name": "Sailor ChibiMoon",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "15",
+                                             "anime_name": "Sailor Saturn",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "16",
+                                             "anime_name": "Sailor Uranus",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "17",
+                                             "anime_name": "Sailor ChibiChibi",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "18",
+                                             "anime_name": "Sailor Neptune",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "19",
+                                             "anime_name": "Sailor Pluto",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "20",
+                                             "anime_name": "Tuxedo Mask",
+                                             "anime_step": 13
+                                             }]
+                                  }, {
+                                  "category_id": "8",
+                                  "category_name": "MineCraft",
+                                  "category_thumbnail": "8.png",
+                                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                                  "file_extension": "png",
+                                  "is_video": "false",
+                                  "animes": [{
+                                             "anime_id": "1",
+                                             "anime_name": "Cake",
+                                             "anime_step": 5
+                                             }, {
+                                             "anime_id": "2",
+                                             "anime_name": "Ghast",
+                                             "anime_step": 6
+                                             }, {
+                                             "anime_id": "3",
+                                             "anime_name": "Creeper",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "4",
+                                             "anime_name": "Enderman",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "5",
+                                             "anime_name": "Steve",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "6",
+                                             "anime_name": "Zombie",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "7",
+                                             "anime_name": "Herobrine",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "8",
+                                             "anime_name": "Chicken",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "9",
+                                             "anime_name": "Sheep",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "10",
+                                             "anime_name": "Whithers",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "11",
+                                             "anime_name": "Pig",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "12",
+                                             "anime_name": "Wolf",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "13",
+                                             "anime_name": "Cow",
+                                             "anime_step": 6
+                                             }, {
+                                             "anime_id": "14",
+                                             "anime_name": "Skeleton",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "15",
+                                             "anime_name": "Spider",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "16",
+                                             "anime_name": "Octopus",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "17",
+                                             "anime_name": "Slime",
+                                             "anime_step": 6
+                                             }, {
+                                             "anime_id": "18",
+                                             "anime_name": "Snow Golem",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "19",
+                                             "anime_name": "Blaze",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "20",
+                                             "anime_name": "Cat",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "21",
+                                             "anime_name": "Bat",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "22",
+                                             "anime_name": "Ender Dragon",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "23",
+                                             "anime_name": "Horse",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "24",
+                                             "anime_name": "Iron Golem",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "25",
+                                             "anime_name": "Ocelot",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "26",
+                                             "anime_name": "Witch",
+                                             "anime_step": 11
+                                             }]
+                                  }, {
+                                  "category_id": "9",
+                                  "category_name": "Pokemons",
+                                  "category_thumbnail": "9.png",
+                                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                                  "file_extension": "png",
+                                  "is_video": "false",
+                                  "animes": [{
+                                             "anime_id": "1",
+                                             "anime_name": "Dragonite",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "2",
+                                             "anime_name": "Salamence",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "3",
+                                             "anime_name": "Pikachu",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "4",
+                                             "anime_name": "Charmander",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "5",
+                                             "anime_name": "Meowth",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "6",
+                                             "anime_name": "Arceus",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "7",
+                                             "anime_name": "Mew",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "8",
+                                             "anime_name": "Magikarp",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "9",
+                                             "anime_name": "Eevee",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "10",
+                                             "anime_name": "Vulpix",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "11",
+                                             "anime_name": "Oshawott",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "12",
+                                             "anime_name": "Egg",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "13",
+                                             "anime_name": "Shaymin",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "14",
+                                             "anime_name": "Rayquaza",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "15",
+                                             "anime_name": "Mewthree",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "16",
+                                             "anime_name": "Lugia",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "17",
+                                             "anime_name": "Palkia",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "18",
+                                             "anime_name": "Darkrai",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "19",
+                                             "anime_name": "Ninetales",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "20",
+                                             "anime_name": "Entei",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "21",
+                                             "anime_name": "Misty",
+                                             "anime_step": 6
+                                             }, {
+                                             "anime_id": "22",
+                                             "anime_name": "Pichu",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "23",
+                                             "anime_name": "Piplup",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "24",
+                                             "anime_name": "Skitty",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "25",
+                                             "anime_name": "Giratina",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "26",
+                                             "anime_name": "Bellspout",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "27",
+                                             "anime_name": "Cloyster",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "28",
+                                             "anime_name": "Dewgong",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "29",
+                                             "anime_name": "Dugtrio",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "30",
+                                             "anime_name": "Geodude",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "31",
+                                             "anime_name": "Jolteon",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "32",
+                                             "anime_name": "Kabutops",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "33",
+                                             "anime_name": "Krabby",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "34",
+                                             "anime_name": "Poliwrath",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "35",
+                                             "anime_name": "Psyduck",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "36",
+                                             "anime_name": "Zapdos",
+                                             "anime_step": 10
+                                             }]
+                                  }, {
+                                  "category_id": "10",
+                                  "category_name": "Hay Day",
+                                  "category_thumbnail": "10.png",
+                                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                                  "file_extension": "png",
+                                  "is_video": "false",
+                                  "animes": [{
+                                             "anime_id": "1",
+                                             "anime_name": "Grey Donkey",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "2",
+                                             "anime_name": "Andalusian Horse",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "3",
+                                             "anime_name": "Barn",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "4",
+                                             "anime_name": "Sheep",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "5",
+                                             "anime_name": "Chicken",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "6",
+                                             "anime_name": "Cow",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "7",
+                                             "anime_name": "Goat",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "8",
+                                             "anime_name": "Lobster",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "9",
+                                             "anime_name": "Palomino Horse",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "10",
+                                             "anime_name": "Pig",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "11",
+                                             "anime_name": "Dog",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "12",
+                                             "anime_name": "Cat",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "13",
+                                             "anime_name": "Greg",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "14",
+                                             "anime_name": "Joan",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "15",
+                                             "anime_name": "Betty",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "16",
+                                             "anime_name": "Mike",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "17",
+                                             "anime_name": "Fish",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "18",
+                                             "anime_name": "Sheep Grown Up",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "19",
+                                             "anime_name": "Tom",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "20",
+                                             "anime_name": "Cow Milky",
+                                             "anime_step": 12
+                                             }]
+                                  }, {
+                                  "category_id": "11",
+                                  "category_name": "Clash of Clans",
+                                  "category_thumbnail": "11.png",
+                                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                                  "file_extension": "png",
+                                  "is_video": "false",
+                                  "animes": [{
+                                             "anime_id": "1",
+                                             "anime_name": "Barbarian",
+                                             "anime_step": 15
+                                             }, {
+                                             "anime_id": "2",
+                                             "anime_name": "Archer",
+                                             "anime_step": 17
+                                             }, {
+                                             "anime_id": "3",
+                                             "anime_name": "Goblin",
+                                             "anime_step": 14
+                                             }, {
+                                             "anime_id": "4",
+                                             "anime_name": "Giant",
+                                             "anime_step": 15
+                                             }, {
+                                             "anime_id": "5",
+                                             "anime_name": "Wall Breaker",
+                                             "anime_step": 16
+                                             }, {
+                                             "anime_id": "6",
+                                             "anime_name": "Wizart",
+                                             "anime_step": 16
+                                             }, {
+                                             "anime_id": "7",
+                                             "anime_name": "Healer",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "8",
+                                             "anime_name": "Dragon",
+                                             "anime_step": 16
+                                             }, {
+                                             "anime_id": "9",
+                                             "anime_name": "Minion",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "10",
+                                             "anime_name": "Hog Rider",
+                                             "anime_step": 18
+                                             }, {
+                                             "anime_id": "11",
+                                             "anime_name": "Valkyrie",
+                                             "anime_step": 16
+                                             }, {
+                                             "anime_id": "12",
+                                             "anime_name": "Golem",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "13",
+                                             "anime_name": "Witch",
+                                             "anime_step": 14
+                                             }, {
+                                             "anime_id": "14",
+                                             "anime_name": "Barbarian King",
+                                             "anime_step": 16
+                                             }, {
+                                             "anime_id": "15",
+                                             "anime_name": "Archer Queen",
+                                             "anime_step": 16
+                                             }, {
+                                             "anime_id": "16",
+                                             "anime_name": "Logo",
+                                             "anime_step": 10
+                                             }, {
+                                             "anime_id": "17",
+                                             "anime_name": "P.E.K.K.A",
+                                             "anime_step": 15
+                                             }]
+                                  }, {
+                                  "category_id": "12",
+                                  "category_name": "Candy Crush",
+                                  "category_thumbnail": "12.png",
+                                  "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animemanga/master/",
+                                  "file_extension": "png",
+                                  "is_video": "false",
+                                  "animes": [{
+                                             "anime_id": "1",
+                                             "anime_name": "Logo",
+                                             "anime_step": 19
+                                             }, {
+                                             "anime_id": "2",
+                                             "anime_name": "Tiffi",
+                                             "anime_step": 17
+                                             }, {
+                                             "anime_id": "3",
+                                             "anime_name": "Tiffi on train",
+                                             "anime_step": 14
+                                             }, {
+                                             "anime_id": "4",
+                                             "anime_name": "Tiffi on Ship",
+                                             "anime_step": 15
+                                             }, {
+                                             "anime_id": "5",
+                                             "anime_name": "Mr. Toffee Face",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "6",
+                                             "anime_name": "Mr. Toffee",
+                                             "anime_step": 17
+                                             }, {
+                                             "anime_id": "7",
+                                             "anime_name": "Candy Mill",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "8",
+                                             "anime_name": "Genie",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "9",
+                                             "anime_name": "Candy Factory",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "10",
+                                             "anime_name": "Dragon",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "11",
+                                             "anime_name": "Airplane",
+                                             "anime_step": 11
+                                             }, {
+                                             "anime_id": "12",
+                                             "anime_name": "Train",
+                                             "anime_step": 13
+                                             }, {
+                                             "anime_id": "13",
+                                             "anime_name": "Odus Owl",
+                                             "anime_step": 12
+                                             }, {
+                                             "anime_id": "14",
+                                             "anime_name": "Tree",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "15",
+                                             "anime_name": "Bridge",
+                                             "anime_step": 9
+                                             }, {
+                                             "anime_id": "16",
+                                             "anime_name": "Jelly Fish",
+                                             "anime_step": 8
+                                             }, {
+                                             "anime_id": "17",
+                                             "anime_name": "Lollipop Hammer",
+                                             "anime_step": 7
+                                             }, {
+                                             "anime_id": "18",
+                                             "anime_name": "Lucky Candy",
+                                             "anime_step": 6
+                                             }, {
+                                             "anime_id": "19",
+                                             "anime_name": "Color Bomb",
+                                             "anime_step": 6
+                                             }, {
+                                             "anime_id": "20",
+                                             "anime_name": "Booster Wheel",
+                                             "anime_step": 13
+                                             }]
+                                  }]
+                   }]
 }
