@@ -184,6 +184,88 @@
                               "anime_step": 9
                               }]
                    }, {
+                   "category_id": "111117",
+                   "category_name": "Makeup Eyes",
+                   "category_thumbnail": "111117.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
+                   "file_extension": "png",
+                   "is_video": "false",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Classic Eyeliner",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Winehouse Eyeliner",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Double Flick",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Arabic Eyeliner",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Double Mod",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Natural Eyebrows",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Thick Eyebrows",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Soft Angled Brows",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Natural Lips",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Glamour Lips",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Contooring",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Strobing",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Natural Makeup",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Nautical Nails",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Rhombus Nails",
+                              "anime_step":6
+                              }]
+                   }, {
                    "category_id": "111114",
                    "category_name": "Female Eyes",
                    "category_thumbnail": "111114.png",
