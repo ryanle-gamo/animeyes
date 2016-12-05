@@ -1,8 +1,8 @@
 {
-    "latest_version":"1.0.1",
+    "latest_version":"1.1.0",
     "is_admob_in_grid":true,
     "is_admob":true,
-    "version":"ALPHA",
+    "version":"PRODUCTION",
     "category_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/draw_anime_eyes_category.json",
     "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/draw_anime_eyes_category_alpha.json",
     "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
