@@ -4,7 +4,7 @@
     "is_admob":true,
     "version":"PRODUCTION",
     "category_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/draw_anime_eyes_category.json",
-    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/draw_anime_eyes_category.json",
+    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/draw_anime_eyes_category_alpha.json",
     "file_url":"https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
     "admob_banner_id":"ca-app-pub-4322965078780162/9209534336",
     "admob_interstitial_id":"ca-app-pub-4322965078780162/1686267531",
