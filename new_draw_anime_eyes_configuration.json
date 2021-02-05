@@ -1,13 +1,13 @@
 {
 "latest_version": "1.1.5",
-"is_testing": true,
+"is_testing": false,
 "is_update_forced": false,
 "category_url": "https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/draw_anime_eyes_category.json",
 "category_url_alpha": "https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/draw_anime_eyes_category_alpha.json",
 "file_url": "https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/",
 "appstore_url": "http://itunes.apple.com/app/id1099566716",
   "stop_step_index_at":3,
-  "is_idfa_enabled":true,
+  "is_idfa_enabled":false,
   "idfa_message_for_testing":"We depend on advertising revenue to maintain our app running-just like you depend on footage to get throught the day. Please enable IDFA to keep the app better day by day. Thank you so much for your support :)",
   "idfa_message":"We depend on advertising revenue to maintain our app running-just like you depend on footage to get throught the day. Please enable IDFA to keep the app better day by day as well as be able to go the next step. Thank you so much for your support :)",
   "idfa_message_after_cancellation":"We depend on advertising revenue to maintain our app running-just like you depend on footage to get throught the day. Please enable \"Allow Tracking\" to keep the app better day by day as well as be able to go the next step. Thank you so much for your support :)"
