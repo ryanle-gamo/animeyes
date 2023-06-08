@@ -1,6 +1,6 @@
 {
 "latest_version": "1.2.0",
-"is_testing": true,
+"is_testing": false,
 "is_update_forced": false,
 "category_url": "https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/draw_anime_eyes_category.json",
 "category_url_alpha": "https://raw.githubusercontent.com/ryanle-gamo/animeyes/master/draw_anime_eyes_category_alpha.json",
